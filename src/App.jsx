@@ -1,5 +1,5 @@
+import React from 'react'
 import { Route, Routes } from 'react-router'
-import './App.css'
 import HomePage from './Pages/HomePage'
 import MsgPage from './Pages/MsgPage'
 import NotFoundPage from './NotFoundPage'
