@@ -13,6 +13,7 @@ navigate(`/${inputValue.toLowerCase()}`)
   return (
  <>
  <section className='flex items-center justify-center flex-col min-h-screen'>
+  <h2>Hello</h2>
   <h3>click on Image</h3>
   <img className='w-72 object-contain'
   src='https://editzstock.com/wp-content/uploads/2022/09/Durga-puja-mata-pngdurga-puja-maa-durga-png.png'
